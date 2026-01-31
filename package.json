@@ -1,0 +1,18 @@
+{
+  "name": "subtitleedit",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarsislimadev/subtitleedit.git"
+  },
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tarsislimadev/subtitleedit/issues"
+  },
+  "homepage": "https://github.com/tarsislimadev/subtitleedit#readme"
+}
